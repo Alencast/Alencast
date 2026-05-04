@@ -4,7 +4,7 @@
 
 <h1 align="center">🤝 Social</h1>
 
-<p align="center">
+<p align="center" style="display: flex;">
     <a href="https://www.linkedin.com/in/robson-alencastro-9537a022b" target="blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"         height="40" alt="linkedin logo"  />
     </a>
