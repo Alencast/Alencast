@@ -4,31 +4,12 @@
 
 <h1 align="center">🤝 Social</h1>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/robson-alencastro-9537a022b">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Alencast">
-        <img src="https://skillicons.dev/icons?i=github" width="52"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:binhoalves.14@hotmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="52"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://wa.me/558499348474">
-        <img src="https://skillicons.dev/icons?i=whatsapp" width="52"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/robson-alencastro-9537a022b"><img src="https://skillicons.dev/icons?i=linkedin" width="52"/></a>
+<a href="https://github.com/Alencast"><img src="https://skillicons.dev/icons?i=github" width="52"/></a>
+<a href="mailto:binhoalves.14@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="52"/></a>
+<a href="https://wa.me/558499348474"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52"/></a>
+</p>
 <hr>
 
 <div align="center">  
