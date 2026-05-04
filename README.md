@@ -4,7 +4,7 @@
 
 <h1 align="center">🤝 Social</h1>
 
-<div align="center" style="display:flex">
+<p align="center" >
     <a href="https://www.linkedin.com/in/robson-alencastro-9537a022b" target="blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
@@ -17,7 +17,7 @@
     <a href="https://wa.me/558499348474" target="blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
     </a>
-</div>
+</p>
 
 <hr>
 
