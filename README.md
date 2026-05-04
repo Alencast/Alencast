@@ -4,19 +4,15 @@
 
 <h1 align="center">🤝 Social</h1>
 
-<p align="center" style="display: flex;">
-    <a href="https://www.linkedin.com/in/robson-alencastro-9537a022b" target="blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"         height="40" alt="linkedin logo"  />
-    </a>
-    <a href="https://github.com/Alencast" target="blank">
-        <img src="https://skillicons.dev/icons?i=github" width="52" height="40" alt="github logo"  />
-    </a>
-    <a href="mailto:binhoalves.14@hotmail.com" target="blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52"             height="40" alt="gmail logo"  />
-    </a>
-    <a href="https://wa.me/558499348474" target="blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52"         height="40" alt="whatsapp logo"  />
-    </a>
+<p align="center">
+    <table>
+        <tr>
+            <td><a href="https://www.linkedin.com/in/robson-alencastro-9537a022b" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a></td>
+            <td><a href="https://github.com/Alencast" target="blank"><img src="https://skillicons.dev/icons?i=github" width="52" height="40" alt="github logo" /></a></td>
+            <td><a href="mailto:binhoalves.14@hotmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a></td>
+            <td><a href="https://wa.me/558499348474" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" /></a></td>
+        </tr>
+    </table>
 </p>
 
 <hr>
